@@ -1,0 +1,11 @@
+stratum
+codec
+stratum-codec
+miner
+cryptominer
+mining
+hashrate
+mining-pool
+open-source
+cpp
+cmake
